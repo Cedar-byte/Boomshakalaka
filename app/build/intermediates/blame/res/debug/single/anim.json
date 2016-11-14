@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\button_shake.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\src\\main\\res\\anim\\button_shake.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake_y.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\src\\main\\res\\anim\\shake_y.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\src\\main\\res\\anim\\cycle.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\MySVN\\shakeshake\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
